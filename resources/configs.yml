@@ -1,0 +1,17 @@
+---
+#L'id de votre item
+"248:0":
+  #Le message quand cliquer
+  message: "Item Used"
+  #La command a exécuté
+  commands: say {player} Plugin Developper by Fan-code
+
+
+#tu en rajoute d'autre selon ton anvis
+"269:0":
+  #Le message quand cliquer
+  message: "Item Used"
+  #le montant a donner
+  commands: say {player} didonc c'es cool de use des item
+
+...
